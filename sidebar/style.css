@@ -1,0 +1,56 @@
+body{
+	font-family: sans-serif;
+	font-size: 12px;
+}
+
+#resource{
+	border-radius: 8px;
+	background-color: white;
+	color:grey;
+	padding: 4px;
+
+}
+
+textarea{
+	width: 100%;
+	font-family: inherit;
+	font-size: 12px;
+
+}
+.outputarea{
+	outline: none;
+	border: 0px solid;
+	background-color:transparent;
+}
+
+#current{
+	margin-bottom: 10px;
+}
+
+#stack{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.module{
+	color: #FFF;
+  	background-color: #6699CC;
+  	border-radius: 5px;
+}
+
+button #submit {
+  	color: #6699CC;
+  	background-color: #FFF;
+  	border-radius: 5px;
+}
+
+.hide{
+	display:none;
+}
+.right {
+    text-align: right;
+    float: right;
+}
+.remove{
+	display: inline-block;
+}
